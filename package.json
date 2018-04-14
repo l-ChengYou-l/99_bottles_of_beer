@@ -1,0 +1,19 @@
+{
+  "name": "99_bottles_of_beer",
+  "version": "1.0.0",
+  "description": "print_lyrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node --verbose spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-ChengYou-l/99_bottles_of_beer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-ChengYou-l/99_bottles_of_beer/issues"
+  },
+  "homepage": "https://github.com/l-ChengYou-l/99_bottles_of_beer#readme"
+}
